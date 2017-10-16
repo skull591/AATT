@@ -1,0 +1,4 @@
+<kr.softgear.multiping.MultiPing: boolean AddHostName(java.lang.String)>
+<com.admob.android.ads.i: boolean a()>
+<kr.softgear.multiping.MultiPing: void refresh()>
+<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>

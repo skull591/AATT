@@ -1,0 +1,17 @@
+--------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+E/AndroidRuntime( 3667): FATAL EXCEPTION: main
+E/AndroidRuntime( 3667): Process: kr.softgear.multiping, PID: 3667
+E/AndroidRuntime( 3667): java.lang.IndexOutOfBoundsException: Invalid index 0, size is 0
+E/AndroidRuntime( 3667): 	at java.util.ArrayList.throwIndexOutOfBoundsException(ArrayList.java:255)
+E/AndroidRuntime( 3667): 	at java.util.ArrayList.remove(ArrayList.java:403)
+E/AndroidRuntime( 3667): 	at kr.softgear.multiping.MultiPing$2$2.onClick(MultiPing.java)
+E/AndroidRuntime( 3667): 	at com.android.internal.app.AlertController$ButtonHandler.handleMessage(AlertController.java:166)
+E/AndroidRuntime( 3667): 	at android.os.Handler.dispatchMessage(Handler.java:110)
+E/AndroidRuntime( 3667): 	at android.os.Looper.loop(Looper.java:193)
+E/AndroidRuntime( 3667): 	at android.app.ActivityThread.main(ActivityThread.java:5334)
+E/AndroidRuntime( 3667): 	at java.lang.reflect.Method.invokeNative(Native Method)
+E/AndroidRuntime( 3667): 	at java.lang.reflect.Method.invoke(Method.java:515)
+E/AndroidRuntime( 3667): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:829)
+E/AndroidRuntime( 3667): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:645)
+E/AndroidRuntime( 3667): 	at dalvik.system.NativeStart.main(Native Method)

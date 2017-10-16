@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SootTest:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SootTest_jar</output-path>
+    <root id="archive" name="SootTest.jar">
+      <element id="module-output" name="SootTest" />
+      <element id="module-output" name="analysis_framework" />
+      <element id="module-output" name="soot1" />
+      <element id="module-output" name="generated" />
+      <element id="module-output" name="intermediate_representation" />
+      <element id="module-output" name="arrayclone" />
+      <element id="module-output" name="call_graph" />
+      <element id="module-output" name="devirt" />
+      <element id="module-output" name="optimizingCourse" />
+      <element id="module-output" name="pldi03" />
+      <element id="module-output" name="pointsto" />
+      <element id="module-output" name="representations" />
+      <element id="module-output" name="typing" />
+      <element id="extracted-dir" path="$USER_HOME$/Data1/Apsec/aatt/SootTest/libs/apktool.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Data1/Apsec/aatt/SootTest/libs/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/guava-18.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/cglib-nodep-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/powermock-mockito-1.6.1-full.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/dexlib2-2.2b4-adb12356.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/jboss-common-core-2.5.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/AXMLPrinter2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/hamcrest-all-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/asm-debug-all-5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/slf4j-simple-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/javassist-3.18.2-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/polyglot.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/util-2.2b4-adb12356.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/libs/mockito-all-1.10.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Data1/Apsec/aatt/SootTest/libs/xmlpull_1_0_5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../soot1/classes/artifacts/soot_jar/soot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

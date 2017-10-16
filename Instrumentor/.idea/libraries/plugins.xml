@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/plugins/ca.mcgill.sable.soot_2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/plugins/ca.mcgill.sable.soot.help_2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/plugins/ca.mcgill.sable.soot.lib_2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

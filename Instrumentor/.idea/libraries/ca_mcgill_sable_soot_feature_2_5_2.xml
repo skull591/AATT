@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ca.mcgill.sable.soot.feature_2.5.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/features/ca.mcgill.sable.soot.feature_2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

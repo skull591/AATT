@@ -1,0 +1,7 @@
+appPack = kr.softgear.multiping
+appLaunch = .MultiPing
+uiautoDir = /home/alex-wang/aatt/AATT+/UiTraverse/
+APK_NAME = MultiPing.apk
+SDK_Dir = /home/alex-wang/Data1/AndroidSDK/
+android_version = android-21
+

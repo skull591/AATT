@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hierarchyviewer2lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jmonkeyrunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ddmlib(2).jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/swtmenubar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jvnc_0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/chattychimpchat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

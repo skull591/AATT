@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SootTest.iml" filepath="$PROJECT_DIR$/SootTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/analysis_framework.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/analysis_framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/systests/tests/arrayclone/arrayclone.iml" filepath="$PROJECT_DIR$/../soot1/systests/tests/arrayclone/arrayclone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/guide/examples/call_graph/call_graph.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/call_graph/call_graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/systests/tests/devirt/devirt.iml" filepath="$PROJECT_DIR$/../soot1/systests/tests/devirt/devirt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/generated/generated.iml" filepath="$PROJECT_DIR$/../soot1/generated/generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/intermediate_representation.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/intermediate_representation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/optimizingCourse.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/optimizingCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/pldi03/pldi03.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/pldi03/pldi03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/pointsto.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/pointsto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/representations.iml" filepath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/representations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/soot1.iml" filepath="$PROJECT_DIR$/../soot1/soot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../soot1/systests/tests/typing/typing.iml" filepath="$PROJECT_DIR$/../soot1/systests/tests/typing/typing.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ExampleApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../soot/doc/ExampleApp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

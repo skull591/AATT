@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mzs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/newjar/mzs.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

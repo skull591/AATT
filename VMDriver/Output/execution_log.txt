@@ -1,0 +1,302 @@
+multiPing!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[lqw] Main.main: start time is 1508160767743
+devicePool: 1
+[lqw]: in AndroidDeviceManager.initManager, AVD name is: null, name is lenovo-lenovo_a320t-0123456789ABCDEF
+Androiddevice listener is working now
+Robotium port: 10000
+Loading.....
+AndroidDevice init successfully 
+qemu list size = 1
+avd name: null
+10001
+[lqw] Main.main: qemu start ok
+[lqw] Main.main: VNC port: -1
+[lqw] Main.main: Remotedesktop port: 10001
+java -jar tools/apktool.jar -q d -s -f subjects/apks/MultiPing.apk -o apkExtract/ApkExtractDir
+output:
+
+Buildfile: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at /home/alex-wang/Data1/AndroidSDK
+
+-setup:
+     [echo] Project Name: troyd
+  [gettype] Project Type: Self-Tested Application
+
+-pre-clean:
+
+clean:
+   [delete] Deleting directory /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin
+   [delete] Deleting directory /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/gen
+[getlibpath] Library dependencies:
+[getlibpath] No Libraries
+   [subant] No sub-builds to iterate on
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+Buildfile: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/build.xml
+
+-set-mode-check:
+
+-set-debug-files:
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 25.2.5
+ [checkenv] Installed at /home/alex-wang/Data1/AndroidSDK
+
+-setup:
+     [echo] Project Name: troyd
+  [gettype] Project Type: Self-Tested Application
+
+-set-debug-mode:
+
+-debug-obfuscation-check:
+
+-pre-build:
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 26.0.1
+     [echo] Resolving Build Target for troyd...
+[gettarget] Project Target:   Android 4.4.2
+[gettarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/rsObj
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/rsLibs
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/gen
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/classes
+    [mkdir] Created dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/dexedLibs
+     [echo] ----------
+     [echo] Resolving Dependencies for troyd...
+[dependency] Library dependencies:
+[dependency] No Libraries
+[dependency] 
+[dependency] ------------------
+     [echo] ----------
+     [echo] Building Libraries with 'debug'...
+   [subant] No sub-builds to iterate on
+
+-code-gen:
+[mergemanifest] Merging AndroidManifest files into one.
+[mergemanifest] Manifest merger disabled. Using project manifest only.
+     [echo] Handling aidl files...
+     [aidl] No AIDL files to compile.
+     [echo] ----------
+     [echo] Handling RenderScript files...
+     [echo] ----------
+     [echo] Handling Resources...
+     [aapt] Generating resource IDs...
+     [echo] ----------
+     [echo] Handling BuildConfig class...
+[buildconfig] Generating BuildConfig class.
+
+-pre-compile:
+
+-compile:
+    [javac] Compiling 4 source files to /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/classes
+    [javac] warning: [options] source value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] target value 1.5 is obsolete and will be removed in a future release
+    [javac] warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+    [javac] 3 warnings
+
+-post-compile:
+
+-obfuscate:
+
+-dex:
+      [dex] input: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/classes
+      [dex] input: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/libs/robotium-solo-5.3.1.jar
+      [dex] input: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/libs/guava-12.0.1.jar
+      [dex] Pre-Dexing /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/libs/robotium-solo-5.3.1.jar -> robotium-solo-5.3.1-efb6cea73870d99ea22d65448db9c1cb.jar
+      [dex] Pre-Dexing /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/libs/guava-12.0.1.jar -> guava-12.0.1-8f4c81a9a9e92bdc6420207fe0bdb7d2.jar
+      [dex] Converting compiled files and external libraries into /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/classes.dex...
+       [dx] Merged dex #1 (11 defs/37.1KiB)
+       [dx] Merged dex #2 (1342 defs/1561.2KiB)
+       [dx] Merged dex #3 (69 defs/117.4KiB)
+       [dx] Result is 1422 defs/2209.7KiB. Took 0.2s
+
+-crunch:
+   [crunch] Crunching PNG Files in source dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/res
+   [crunch] To destination dir: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res
+   [crunch] Processing image to cache: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/res/drawable-hdpi/icon.png => /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-hdpi/icon.png
+   [crunch]   (processed image to cache entry /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-hdpi/icon.png: 0% size of source)
+   [crunch] Processing image to cache: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/res/drawable-ldpi/icon.png => /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-ldpi/icon.png
+   [crunch]   (processed image to cache entry /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-ldpi/icon.png: 0% size of source)
+   [crunch] Processing image to cache: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/res/drawable-mdpi/icon.png => /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-mdpi/icon.png
+   [crunch]   (processed image to cache entry /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/res/drawable-mdpi/icon.png: 0% size of source)
+   [crunch] Crunched 3 PNG files to update cache
+
+-package-resources:
+     [aapt] Creating full resource package...
+
+-package:
+[apkbuilder] Current build type is different than previous build: forced apkbuilder run.
+[apkbuilder] Creating troyd-debug-unaligned.apk and signing it with a debug key...
+
+-post-package:
+
+-do-debug:
+ [zipalign] Running zip align on final apk...
+     [echo] Debug Package: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/troyd-debug.apk
+[propertyfile] Creating new property file: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/build.prop
+[propertyfile] Updating property file: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/build.prop
+[propertyfile] Updating property file: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/build.prop
+[propertyfile] Updating property file: /home/alex-wang/aatt/AATT+/AATT/VMDriver/troyd/bin/build.prop
+
+-post-build:
+
+debug:
+
+BUILD SUCCESSFUL
+Total time: 5 seconds
+
+BUILD SUCCESSFUL
+Rebuild troyd completed
+[lqw] Main.main: resignature
+java -Djava.awt.headless=true -jar tools/apktool.jar d -f --no-src --keep-broken-res /home/alex-wang/aatt/AATT+/AATT/VMDriver/subjects/apks/MultiPing.apk -o temp11111
+output:
+I: Using Apktool 2.0.1 on MultiPing.apk
+I: Loading resource table...
+I: Decoding AndroidManifest.xml with resources...
+I: Loading resource table from file: /home/alex-wang/apktool/framework/1.apk
+I: Regular manifest package...
+I: Decoding file-resources...
+I: Decoding values */* XMLs...
+I: Copying raw classes.dex file...
+I: Copying assets and libs...
+I: Copying unknown files...
+I: Copying original files...
+
+true
+true
+true
+[lqw] AndroidDevice.installApk troyd/bin/troyd.apk
+install ouput :null
+[lqw] Agent.loadTargetApk: uninstall kr.softgear.multiping suc
+[lqw] AndroidDevice.installApk kr.softgear.multiping.apk
+install ouput :null
+am startservice -n umd.troyd/.Ignite -e AUT 10000
+robotium socker connect sucessfully
+Handle Server is running
+am start -a android.intent.action.MAIN -n kr.softgear.multiping/kr.softgear.multiping.MultiPing
+[lqw] Main.main: wait for starting up apk
+[lqw] Main.main: start DFS
+[lqw] DFS.dfs: the size of suspiciousActions is 1
+[lqw] DFS.dfs: current size of seq is 0; depth = 0; begin
+curViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_~~~_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], AdView_2131099654_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[]]
+s0: -611054846
+[lqw] DFS.dfs: action is TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+resultViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_http://bbs.nju.edu.cn_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], AdView_2131099654_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[]]
+s1:-611054846
+[lqw] DFS.dfs: cur time is 68 s
+[lqw] DFS.dfs: CNT_PAIR = 0, CNT_EVENT = 3
+[lqw] DFS.dfs: the same state after Action
+[lqw] DFS.dfs: current size of seq is 0; depth = 0; begin
+curViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_http://bbs.nju.edu.cn_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], AdView_2131099654_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[]]
+s0: -611054846
+[lqw] DFS.dfs: action is TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+	[Action] View: [TextView: 2131099648] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+resultViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_http://bbs.nju.edu.cn_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], AdView_2131099654_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[]]
+s1:-611054846
+[lqw] DFS.dfs: cur time is 104 s
+[lqw] DFS.dfs: CNT_PAIR = 0, CNT_EVENT = 6
+[lqw] DFS.dfs: the same state after Action
+[lqw] DFS.dfs: current size of seq is 0; depth = 0; begin
+curViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_http://bbs.nju.edu.cn_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], AdView_2131099654_0.0_ 0.53125_1080_0_true_false_false_false_false_false_~~~_[]]
+s0: -611054846
+[lqw] DFS.dfs: action is Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+	[Action] View: [TextView: 2131099648] Operation: DoubleClick
+	[Action] View: [Button: 2131099651] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+resultViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_~~~_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_175_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], TextView_2131099655_0.0_ 0.53125_810_175_false_false_false_false_false_false_http://bbs.nju.edu.cn
+0.0.0.0_[], TextView_2131099656_1.6875_ 0.58125_270_94_false_false_false_false_false_false_wait.._[], AdView_2131099654_0.0_ 0.75_1080_0_true_false_false_false_false_false_~~~_[]]
+s1:633182545
+[lqw] DFS.dfs: cur time is 119 s
+[lqw] DFS.dfs: CNT_PAIR = 0, CNT_EVENT = 9
+[lqw] DFS.dfs: the same Activity after action
+[lqw] DFS.dfs: the size of suspiciousActions is 1
+[lqw] DFS.dfs: current size of seq is 1; depth = 1; begin
+curViews: [TextView_16908310_0.027083334_ 0.10875_1053_77_false_false_false_false_false_false_MultiPing_[], TextView_2131099648_0.0_ 0.21_1080_47_false_false_false_false_false_false_Enter hostname or IP address_[], EditText_2131099650_0.0_ 0.27_810_162_true_false_false_false_false_false_~~~_[], Button_2131099651_1.6875_ 0.27_270_162_true_false_false_false_false_false_Add_[<kr.softgear.multiping.MultiPing$4: void onClick(android.view.View)>], TextView_2131099652_0.0_ 0.4725_1080_47_false_false_false_false_false_false_local IP :  192.168.1.100_[], ListView_2131099653_0.0_ 0.53125_1080_175_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], TextView_2131099655_0.0_ 0.53125_810_175_false_false_false_false_false_false_http://bbs.nju.edu.cn
+0.0.0.0_[], TextView_2131099656_1.6875_ 0.58125_270_94_false_false_false_false_false_false_wait.._[], AdView_2131099654_0.0_ 0.75_1080_0_true_false_false_false_false_false_~~~_[]]
+s0: 633182545
+[lqw] Concurrency-bug related events' enabling events： Click on ListView_2131099653_0.0_ 0.53125_1080_175_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>], two required
+[lqw] DFS.dfs: action is ListView_2131099653_0.0_ 0.53125_1080_175_true_false_false_false_false_false_~~~_[<kr.softgear.multiping.MultiPing$2: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+	[Action] View: [TextView: 2131099648] Operation: DoubleClick
+	[Action] View: [Button: 2131099651] Operation: DoubleClick
+	[Action] View: [ListView: 2131099653] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+resultViews: [DialogTitle_16908912_0.18125_ 0.8775_911_121_false_false_false_false_false_false_Confirm_[], ImageView_16908913_0.1125_ 1.06625_978_3_false_false_false_false_false_false_~~~_[], ScrollView_16908918_0.1125_ 1.07125_978_165_false_false_false_false_false_false_~~~_[], TextView_16908299_0.21041666_ 1.08_897_118_false_false_false_false_false_false_Delete 'http://bbs.nju.edu.cn'_[], Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>], Button_16908314_1.13125_ 1.295_482_162_true_false_false_false_false_false_Cancel_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]]
+s1:1128287304
+[lqw] DFS.dfs: cur time is 140 s
+[lqw] DFS.dfs: CNT_PAIR = 0, CNT_EVENT = 12
+[lqw] DFS.dfs: the same Activity after action
+[lqw] DFS.dfs: the size of suspiciousActions is 0
+[lqw] DFS.dfs: current size of seq is 2; depth = 2; begin
+curViews: [DialogTitle_16908912_0.18125_ 0.8775_911_121_false_false_false_false_false_false_Confirm_[], ImageView_16908913_0.1125_ 1.06625_978_3_false_false_false_false_false_false_~~~_[], ScrollView_16908918_0.1125_ 1.07125_978_165_false_false_false_false_false_false_~~~_[], TextView_16908299_0.21041666_ 1.08_897_118_false_false_false_false_false_false_Delete 'http://bbs.nju.edu.cn'_[], Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>], Button_16908314_1.13125_ 1.295_482_162_true_false_false_false_false_false_Cancel_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]]
+s0: 1128287304
+[lqw] DFS.dfs: action is Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+	[Action] View: [TextView: 2131099648] Operation: DoubleClick
+	[Action] View: [Button: 2131099651] Operation: DoubleClick
+	[Action] View: [ListView: 2131099653] Operation: DoubleClick
+	[Action] View: [Button: 16908313] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+resultViews: [DialogTitle_16908912_0.18125_ 0.8775_911_121_false_false_false_false_false_false_Confirm_[], ImageView_16908913_0.1125_ 1.06625_978_3_false_false_false_false_false_false_~~~_[], ScrollView_16908918_0.1125_ 1.07125_978_165_false_false_false_false_false_false_~~~_[], TextView_16908299_0.21041666_ 1.08_897_118_false_false_false_false_false_false_Delete 'http://bbs.nju.edu.cn'_[], Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>], Button_16908314_1.13125_ 1.295_482_162_true_false_false_false_false_false_Cancel_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]]
+s1:1128287304
+[lqw] DFS.dfs: cur time is 157 s
+[lqw] DFS.dfs: CNT_PAIR = 0, CNT_EVENT = 15
+[lqw] DFS.dfs: the same state after Action
+[lqw] DFS.dfs: current size of seq is 2; depth = 2; begin
+curViews: [DialogTitle_16908912_0.18125_ 0.8775_911_121_false_false_false_false_false_false_Confirm_[], ImageView_16908913_0.1125_ 1.06625_978_3_false_false_false_false_false_false_~~~_[], ScrollView_16908918_0.1125_ 1.07125_978_165_false_false_false_false_false_false_~~~_[], TextView_16908299_0.21041666_ 1.08_897_118_false_false_false_false_false_false_Delete 'http://bbs.nju.edu.cn'_[], Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>], Button_16908314_1.13125_ 1.295_482_162_true_false_false_false_false_false_Cancel_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]]
+s0: 1128287304
+[lqw] DFS.dfs: action is Button_16908313_0.125_ 1.295_482_162_true_false_false_false_false_false_Delete_[<com.android.internal.app.AlertController$1: void onClick(android.view.View)>]: DoubleClick
+[lqw] The action sequence so far:
+	[Action] View: [TextView: 16908310] Operation: DoubleClick
+	[Action] View: [TextView: 2131099648] Operation: DoubleClick
+	[Action] View: [Button: 2131099651] Operation: DoubleClick
+	[Action] View: [ListView: 2131099653] Operation: DoubleClick
+	[Action] View: [Button: 16908313] Operation: DoubleClick
+	[Action] View: [Button: 16908313] Operation: DoubleClick
+[lqw] rotate the screen to generate life-cycle events
+java.io.EOFException
+	at java.io.DataInputStream.readUnsignedShort(DataInputStream.java:340)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:589)
+	at java.io.DataInputStream.readUTF(DataInputStream.java:564)
+	at edu.nju.autodroid.troydAction.TroydAction.getViews(Unknown Source)
+	at edu.nju.autodroid.device.androidDevice.AndroidDevice.getViews(Unknown Source)
+	at edu.nju.autodroid.agent.Agent.getViews(Unknown Source)
+	at com.lqw.e.g(Unknown Source)
+	at com.lqw.e.h(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.d(Unknown Source)
+	at com.lqw.Main.main(Unknown Source)
+java.lang.NullPointerException
+	at com.lqw.e.g(Unknown Source)
+	at com.lqw.e.h(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.b(Unknown Source)
+	at com.lqw.e.d(Unknown Source)
+	at com.lqw.Main.main(Unknown Source)
+[lqw] Main.main: end time is 1508160937669
+[lqw] Main.main: end time is 169 s
+[lqw] Main.main: CNT_PAIR = 0, CNT_VENT = 18
+[lqw] AndroidDeciceManager.stopDevice: device avd name:null

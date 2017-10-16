@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/cglib-nodep-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/powermock-mockito-1.6.1-full.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/dexlib2-2.2b4-adb12356.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/jboss-common-core-2.5.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/AXMLPrinter2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/hamcrest-all-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/asm-debug-all-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/slf4j-simple-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/javassist-3.18.2-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/polyglot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/util-2.2b4-adb12356.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot1/libs/mockito-all-1.10.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

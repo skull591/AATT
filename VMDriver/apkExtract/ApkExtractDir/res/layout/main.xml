@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:myapp="http://schemas.android.com/apk/res/kr.softgear.multiping">
+    <TextView android:textSize="10.0sp" android:id="@id/upperline" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Enter hostname or IP address" android:singleLine="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/AddLayout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:id="@id/myEditText" android:layout_width="220.0px" android:layout_height="wrap_content" android:text="" android:singleLine="true" android:layout_weight="7.0" />
+        <Button android:id="@id/myButton" android:layout_width="80.0px" android:layout_height="wrap_content" android:text="Add" />
+    </LinearLayout>
+    <TextView android:textSize="10.0sp" android:id="@id/myTextView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="local IP : 127.0.0.1" android:singleLine="true" />
+    <ListView android:id="@id/myListView" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.admob.android.ads.AdView android:id="@id/ad" android:layout_width="fill_parent" android:layout_height="wrap_content" myapp:backgroundColor="#ff101010" myapp:primaryTextColor="#ffffffff" myapp:secondaryTextColor="#ffcccccc" />
+</LinearLayout>

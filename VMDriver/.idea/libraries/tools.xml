@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="tools">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/apktool_2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/apktool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/signapk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/apktool_pre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/apktool_1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

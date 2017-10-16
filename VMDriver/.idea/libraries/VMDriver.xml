@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="VMDriver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mzs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VMDriver_fat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ddmlib(2).jar!/" />
+      <root url="jar://$PROJECT_DIR$/VMDriver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/main.jar!/" />
+      <root url="jar://$PROJECT_DIR$/record.jar!/" />
+      <root url="jar://$PROJECT_DIR$/main11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ca.mcgill.sable.soot.updatesite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/artifacts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../soot/eclipse/ca.mcgill.sable.soot.updatesite/content.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

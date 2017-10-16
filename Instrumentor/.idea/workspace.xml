@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SootTest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f67e134a-b1b4-48e0-b0aa-f88d708e5694" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/SootTest_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ExampleApp.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ExampleApp1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ca_mcgill_sable_soot_feature_2_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ca_mcgill_sable_soot_feature_2_5_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ca_mcgill_sable_soot_updatesite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ca_mcgill_sable_soot_updatesite1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/libs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/libs1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/plugins.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/plugins1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/soot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SootTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/eclipse/ca.mcgill.sable.soot/ca.mcgill.sable.soot.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/generated/generated.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/soot1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/systests.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/tests/arrayclone/arrayclone.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/tests/devirt/devirt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/tests/hello/hello.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/tests/typing/src/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../soot1/systests/tests/typing/typing.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analysis_result/ApkTool_GUI_1.3.5内测.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/ApkTool_GUI_1.3.5内测.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/DownloadFilesWeb.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/DroidWeight.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/Exodus_19.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/GigaGet_8_19.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/HostIsDown.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/KindMind.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/LilyBBS_v2.1.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/LilyDroid-1.0e8.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/LilyDroid.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/MultiPing_11.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/aLogcat.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/aNarXiv.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/aarddict-android.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/andiodine_1.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/andiodine_3.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/externalip.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/falling_blocks_8.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/twobuntu.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/apks/units.apk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/addattributes/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/addattributes/addattributes.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/analysis/analysis.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/createclass/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/createclass/createclass.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/devirt/devirt.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/faq.dvi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/faq.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/faq.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/faq.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/html.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/lmodern.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/faq/makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/generate_tutorial" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/bnf.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/cleanexamples.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/cmdline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/GenHelloWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/RunLiveAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/RunVeryBusyAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/FlowAnalysisTemplate.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/SimpleVeryBusyExpressions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/analyses/VeryBusyExpressions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/annotations/TagBusyExpressions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/flowsets/ValueArraySparseSet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/dk/brics/soot/transformations/VeryBusyExpsTagger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/testers/LiveVarsClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/analysis_framework/src/testers/VeryBusyClass.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/call_graph/src/dk/brics/soot/callgraphs/CallGraphExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/call_graph/src/testers/CallGraphs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/foo/Foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/foo/FooTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/foonalasys/FooCallgraphCreator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/foonalasys/Foonalasys.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/main/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/FooAssignment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/FooInit.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/FooMethodCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/Method.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/MethodCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/MethodHead.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/Nop.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/Return.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/SomeMethodCall.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/Statement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/StatementProcessor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/ToStringVisitor.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/representation/Variable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/ExprTranslator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/JavaTranslator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/intermediate_representation/src/dk/brics/soot/intermediate/translation/StmtTranslator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/paddle/CVS/Entries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/paddle/CVS/Repository" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/paddle/CVS/Root" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/src/dk/brics/paddle/PointsToAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/test/Container.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/test/Item.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/test/Test1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/pointsto/test/Test2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/grimp/GrimpExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/jimple/JimpleExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/shimple/ShimpleExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/shimple/sootOutput/ShimpleExample.jimple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/examples/representations/shimple/sootOutput/ShimpleExample.shimple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/figures/interp_packs.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/figures/intrap_packs.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/figures/npcolorer.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/figures/settingmain.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/figures/vberun.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/paddle_options.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/runexamples.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/soot.bib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/soot.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/guide/tarexamples.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/html.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/intro/Hello.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/intro/intro.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/invokedynamic/doc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/invokedynamic/invokedynamic.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/jimpleParser/jimpleParser.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/menagerie/menagerie.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizer/optimizer.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/.xvpics/step_forward.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/PPRmcgill.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/backend_struc.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/backend_struc.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/basic_blocks.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/basic_blocks.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/components.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/components.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/constant_lattice.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/course.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/course.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dom_tree.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dom_tree.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_complex.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_complex.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_imm.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_imm.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_simple.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/dominators_simple.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/AvailableExpressions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/CommonSubExp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/DominatorExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/GrimpExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/JimpleExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/LiveInteractive.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/Liveness.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/LoopInvariant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/examples/ReachingDefs.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/frontend_struc.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/frontend_struc.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/highlevel.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/highlevel.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/idom.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/idom.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/implicit_loop.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/implicit_loop.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/in.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/irreducible.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/irreducible.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/iterative.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/iterative.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/java_struc.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/java_struc.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/lfp.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/loop.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/loop.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/loops.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/loops.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/natural_loops.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/natural_loops.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/not_loops.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/not_loops.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration1.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration1.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration2.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration2.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration3.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration3.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration4.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/one_iteration4.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/qtree.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/sa.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/standard.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/standard.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/step_forward.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/verybusy.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/where_to_opt.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/where_to_opt.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/worklist.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/optimizingCourse/worklist.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pdf.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/phase/phase.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/PPRmcgill.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/TODO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/allphases.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/attr-flow.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/attr-flow.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/attr-map.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/attr-map.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/attributes.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/bitbucket.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/body-bare.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/body-ecosystem.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/br-example-specific.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/br-example.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/callgraph.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/concl.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/copy-bkwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/copy-fwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/dvi2pdf.pl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/eclipse-attributes.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/ecosystem.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/LiveVariablesAnalysis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/LiveVariablesAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/Main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullExample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullTagAggregator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullTagAggregator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullTagAggregator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessAnalysis.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessAnalysis.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessAnalysisColorer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessAnalysisColorer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessDriver.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/NullnessDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/foo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/foo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/foo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/sootOutput/foo.grimple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/sootOutput/foo.jasmin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/examples/sootOutput/foo.jimple" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/flow-bkwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/flow-fwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/flow.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/flowanalysis.notes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/flowthrough-bkwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/inter.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/interprocphases.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/intra.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/intraprocphases.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/intro.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/lv-example-specific.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/lv-example.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/lv.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/merge-bkwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/merge-fwd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/other.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/overview1.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/overview1.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/phase.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/qtree.sty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/rd-example-specific.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/rd-example.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/rd.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/reaching.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/soot-attribute.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/soot-attribute.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/spark.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/tag-hierarchy.eps" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/tag-hierarchy.fig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/tutorial-outline.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/tutorial.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/pldi03/vocab.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler/profiler.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler2/InvokeStaticInstrumenter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler2/MainDriver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler2/MyCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler2/TestInvoke.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/profiler2/profiler2.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/ps.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/shimple/shimple.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/sideeffect/sideeffect.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/tagclass/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/tagclass/tagclass.tex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/text.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/to_latex.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/usage/usage.xsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../soot1/tutorial/useannotation/useannotation.tex" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apks/Down.apk" afterPath="$PROJECT_DIR$/apks/Down.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apks/GigaGet_7_21.apk" afterPath="$PROJECT_DIR$/apks/GigaGet_7_21.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/AtomicTest.class" afterPath="$PROJECT_DIR$/com/lqw/AtomicTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/HelloWorld$1.class" afterPath="$PROJECT_DIR$/com/lqw/HelloWorld$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/HelloWorld$A.class" afterPath="$PROJECT_DIR$/com/lqw/HelloWorld$A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/HelloWorld.class" afterPath="$PROJECT_DIR$/com/lqw/HelloWorld.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/Inherit.class" afterPath="$PROJECT_DIR$/com/lqw/Inherit.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/LQWInfomationClazz.class" afterPath="$PROJECT_DIR$/com/lqw/LQWInfomationClazz.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/MyThread.class" afterPath="$PROJECT_DIR$/com/lqw/MyThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw2/C2.class" afterPath="$PROJECT_DIR$/com/lqw2/C2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw2/lqw2/C22.class" afterPath="$PROJECT_DIR$/com/lqw2/lqw2/C22.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw3/C3.class" afterPath="$PROJECT_DIR$/com/lqw3/C3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/apktool.jar" afterPath="$PROJECT_DIR$/libs/apktool.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/dom4j-1.6.1.jar" afterPath="$PROJECT_DIR$/libs/dom4j-1.6.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/xmlpull_1_0_5.jar" afterPath="$PROJECT_DIR$/libs/xmlpull_1_0_5.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C2.java" afterPath="$PROJECT_DIR$/C2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C22.java" afterPath="$PROJECT_DIR$/C22.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/C3.java" afterPath="$PROJECT_DIR$/C3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld.java" afterPath="$PROJECT_DIR$/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Inherit.java" afterPath="$PROJECT_DIR$/Inherit.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Manifest.xml" afterPath="$PROJECT_DIR$/Manifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/AtomicTest.java" afterPath="$PROJECT_DIR$/com/lqw/AtomicTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/lqw/MyThread.java" afterPath="$PROJECT_DIR$/com/lqw/MyThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/compare/Main.java" afterPath="$PROJECT_DIR$/src/com/lqw/compare/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeAsyncTaskClazzTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeAsyncTaskClazzTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeCGTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeCGTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer_Old.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer_Old.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/InstrumentLogTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/InstrumentLogTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/InstrumentSleepTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/InstrumentSleepTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/ListenerAndAsyncTaskTest.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/ListenerAndAsyncTaskTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/RTransformer_NoUse.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/RTransformer_NoUse.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/Temp.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/Temp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/Test.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/XMLButtonParser.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/XMLButtonParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/XMLButtonTransformer.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/XMLButtonTransformer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/bean/MyTag.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/bean/MyTag.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/bean/SharedMemoryInfo.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/bean/SharedMemoryInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/bean/SleepInfo.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/bean/SleepInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/bean/VarInfo.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/bean/VarInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/bean/XMLListener.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/bean/XMLListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/ds/Trie.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/ds/Trie.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/tool/Config.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/tool/Config.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/tool/MyApkTool.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/tool/MyApkTool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/lqw/st/tool/MyPrintStream.java" afterPath="$PROJECT_DIR$/src/com/lqw/st/tool/MyPrintStream.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/InstrumentAndiodine.java" afterPath="$PROJECT_DIR$/src/test/InstrumentAndiodine.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/InstrumentTest.java" afterPath="$PROJECT_DIR$/src/test/InstrumentTest.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AnalyzeAsyncTaskClazzTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeAsyncTaskClazzTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2288#2299#0" expanded="true" />
+                <element signature="e#5435#5441#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnalyzeCGTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeCGTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/compare/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstrumentLogTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/InstrumentLogTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-630">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintStrem.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="863" column="41" lean-forward="false" selection-start-line="863" selection-start-column="41" selection-end-line="863" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InstrumentSleepTransformer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/InstrumentSleepTransformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="87" column="86" lean-forward="false" selection-start-line="87" selection-start-column="86" selection-end-line="87" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/lqw/st/tool/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="34" column="55" lean-forward="false" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;/home/alex-wang/Data1/Android/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>SDKDir + &quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/PrintStream.class" />
+        <option value="$PROJECT_DIR$/src/com/lqw/st/tool/Config.java" />
+        <option value="$PROJECT_DIR$/src/com/lqw/compare/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java" />
+        <option value="$PROJECT_DIR$/src/com/lqw/st/InstrumentSleepTransformer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="490" />
+    <option name="y" value="33" />
+    <option name="width" value="920" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SootTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SootTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SootTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SootTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SootTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SootTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21510153" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lqw.compare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.lqw.compare.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SootTest" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67e134a-b1b4-48e0-b0aa-f88d708e5694" name="Default" comment="" />
+      <created>1506518472338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506518472338</updated>
+      <workItem from="1506518478369" duration="71606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71606000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3640082" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.187062" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43456033" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/compare/Main.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>117</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/compare/Main.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer_Old.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeSharedMemoryTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot/systests/java_tests/Test76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot/systests/java_tests/ParentUsingChildLJH.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding>
+            <element signature="e#540#541#0" expanded="false" />
+            <element signature="e#604#605#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot1/tutorial/createclass/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-832">
+          <caret line="50" column="7" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot1/systests/java_tests/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot1/eclipse/ca.mcgill.sable.soot/src/ca/mcgill/sable/soot/ui/PhaseOptionsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194238">
+          <caret line="11907" column="408" lean-forward="false" selection-start-line="11907" selection-start-column="408" selection-end-line="11907" selection-end-column="408" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../soot1/src/soot/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="617" column="0" lean-forward="false" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/PrintStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="343" column="16" lean-forward="false" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/tool/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="34" column="55" lean-forward="false" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeAsyncTaskClazzTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2288#2299#0" expanded="true" />
+            <element signature="e#5435#5441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AnalyzeCGTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="32" column="13" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/InstrumentLogTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/compare/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/AndroidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="863" column="41" lean-forward="false" selection-start-line="863" selection-start-column="41" selection-end-line="863" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/tool/PrintStrem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="13" column="57" lean-forward="false" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/lqw/st/InstrumentSleepTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="87" column="86" lean-forward="false" selection-start-line="87" selection-start-column="86" selection-end-line="87" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SootTest:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21510153" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>call_graph</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21510153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ca.mcgill.sable.soot.feature_2.5.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.21510153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

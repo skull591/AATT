@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VMDriver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VMDriver_jar</output-path>
+    <root id="archive" name="VMDriver.jar">
+      <element id="module-output" name="VMDriver" />
+      <element id="library" level="project" name="VMDriver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/android.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/hierarchyviewer2lib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/common.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jmonkeyrunner.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/ddmlib(2).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/swtmenubar.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jvnc_0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/chattychimpchat.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/guava-15.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
